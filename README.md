@@ -1,21 +1,17 @@
-# SQL-RETAIL-ANALYSIS
-📊 E-Commerce App SQL Analysis Project
-📝 Description
+# 📊 E-Commerce App SQL Analysis Project
+# 📝 Description
 This project focuses on analyzing data from an E-Commerce App that is actively undergoing performance optimization. The primary goal is to evaluate the app’s daily trends, conversion rates, user growth, and overall business performance using SQL queries to aggregate and join data from various related tables.
 
 The insights derived help in understanding how the app is performing and in identifying areas that need improvement to better serve users and increase revenue.
 
-📈 Analysis Points
-Number of Logins on a Daily Basis
-
+# 📌 Analysis Points
+1. Number of Logins on a Daily Basis
 Calculated daily user login counts to monitor user engagement.
 
-Daily Trend of Logins
-
+2. Daily Trend of Logins
 Identified trends and fluctuations in login behavior over time.
 
-Key Performance Indicators (KPIs) Used
-
+3. Key Performance Indicators (KPIs) Used
 Daily Active Users (DAU)
 
 Conversion Rate (orders/logins)
@@ -28,48 +24,43 @@ Average Order Value
 
 Customer Retention Rate
 
-Two-Year Growth Report
-
+4. Two-Year Growth Report
 a. Did our business grow?
-
-Yes, the analysis of year-over-year metrics shows a significant increase in order volume and revenue.
+✅ Yes, year-over-year metrics show a significant increase in order volume and total revenue.
 
 b. Does our app perform better now?
-
-Improvement observed in both performance KPIs and user engagement metrics.
+✅ Performance KPIs and engagement metrics have improved over time.
 
 c. Did our user base grow?
+✅ Yes, login trends and user registration data indicate consistent growth.
 
-Yes, login trends and new user sign-ups indicate healthy user base growth over the two years.
+5. Top-Selling Products (Year-wise)
+Identified top-selling product IDs in each year and their revenue contribution.
 
-Top-Selling Products (Year-wise)
+Insight: Popular products remained consistent, indicating a strong product-market fit and customer preference.
 
-Identified top-selling product IDs and their contribution to total revenue.
+6. July 2021 Analysis
+# 📉 Problem:
+High login numbers but low order conversion rate.
 
-Insight: Popular products remained consistent, suggesting strong product-market fit and customer loyalty.
-
-July 2021 Analysis
-
-Problem: High login counts but low order conversion.
-
-Recommendation:
-
+# 💡 Recommendation:
 Improve product recommendation engine.
 
-Enhance user interface and app speed.
+Enhance app speed and user experience.
 
-Implement abandoned cart reminders and targeted discounts.
+Use abandoned cart reminders and targeted promotions.
 
-✅ Conclusion
-This SQL-based analysis provides a comprehensive, data-driven report on the E-Commerce App’s performance. Key takeaways include:
+# ✅ Conclusion
+This SQL-based analysis provides a comprehensive and insightful report on the performance of the E-Commerce App.
 
-Identification of top-selling products across years.
+Key Highlights:
+Identified top-selling products per year.
 
-Evaluation of essential KPIs to monitor app performance.
+Evaluated important KPIs like DAU, conversion rate, and revenue metrics.
 
-Analysis of user base and revenue growth.
+Compared performance over two years and confirmed positive business growth.
 
-Strategic recommendations to optimize the app based on historical data trends.
+Discovered July 2021 performance issues and recommended data-driven solutions.
 
-The project offers actionable insights to help the product team make informed decisions for future development and marketing strategies.
+The findings help drive strategic decisions to enhance user satisfaction, boost sales, and optimize app performance.
 
